@@ -7,4 +7,4 @@ This program solves the two-dimensional Poisson equation with TDMA.
 ![](img/untitled.jpg)  
 
 ## Author
-T.Nakabayashi
+naka
